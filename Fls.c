@@ -252,14 +252,3 @@ Std_ReturnType Fls_BlankCheck(Fls_AddressType TargetAddress,Fls_LengthType Lengt
 }
 #endif
 
-/*void Fls_MainFunction(void){
-	#if (FlsDevErrorDetect==STD_ON)
-	  if(JobResultType==MEMIF_JOB_FAILED)
-			Det_ReportError(FlashID,instanceID,Fls_MainFunction_API, FLS_E_ERASE_FAILED| FLS_E_ERASE_FAILED| FLS_E_READ_FAILED|FLS_E_COMPARE_FAILED);
-		if(StatusType==MEMIF_UNINIT)
-			Det_ReportError(FlashID,instanceID,Fls_MainFunction_API,FLS_E_UNINIT);		
-	#endif
-	#if (FlsTimeoutSupervisionEnabled ==STD_ON)
-			Det_ReportError(FlashID,instanceID,Fls_MainFunction_API,FLS_E_UNINIT);
-	#endif
-}*/
