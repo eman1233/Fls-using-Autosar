@@ -66,7 +66,7 @@ Std_ReturnType Fls_Compare(Fls_AddressType SourceAddress,const uint8* TargetAddr
 void Fls_SetMode(MemIf_ModeType Mode);
 void Fls_GetVersionInfo(Std_VersionInfoType* VersioninfoPtr);
 Std_ReturnType Fls_BlankCheck(Fls_AddressType TargetAddress,Fls_LengthType Length);
-void Fls_MainFunction(void);
+
 
 typedef uint8 API;
 #define Fls_Init_API                   ((API)0X00)
