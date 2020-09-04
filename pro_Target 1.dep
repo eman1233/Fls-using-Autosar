@@ -1,0 +1,54 @@
+Dependencies for Project 'pro', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6140000::V6.14::ARMCLANG
+F (.\Fee_Cbk.h)(0x5F4BD24E)()
+F (.\Memif_Types.h)(0x5F4F7006)()
+F (.\Spi.h)(0x5F4FC7A4)()
+F (.\Platform_Types.h)(0x5F4FC7A4)()
+F (.\Compiler.h)(0x5F4BD250)()
+F (.\Fls_Cfg.h)(0x5F4BD250)()
+F (.\Fls.h)(0x5F4FC7A4)()
+F (.\Std_Types.h)(0x5F4FC7A4)()
+F (.\Fls_MemMap.h)(0x5F4BD250)()
+F (.\Fls_Irq.c)(0x5F4BD250)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -IC:/Users/inter/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-IC:/Keil_v5/ARM/CMSIS/Include-D__UVISION_VERSION="531" -DTM4C123GH6PM-o ./objects/fls_irq.o -MD)
+I (Fls.h)(0x5F4FC7A4)
+I (Spi.h)(0x5F4FC7A4)
+I (Std_Types.h)(0x5F4FC7A4)
+I (Platform_Types.h)(0x5F4FC7A4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5ED66044)
+I (Compiler.h)(0x5F4BD250)
+I (Fls_Cfg.h)(0x5F4BD250)
+I (Fee_Cbk.h)(0x5F4BD24E)
+I (Memif_Types.h)(0x5F4F7006)
+I (Fls_MemMap.h)(0x5F4BD250)
+F (.\Fls_Lcfg.c)(0x5F4BD251)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -IC:/Users/inter/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-IC:/Keil_v5/ARM/CMSIS/Include-D__UVISION_VERSION="531" -DTM4C123GH6PM-o ./objects/fls_lcfg.o -MD)
+I (Fls_Cbk.h)(0x5F4BD251)
+I (Fls_MemMap.h)(0x5F4BD250)
+F (.\Fls_PBcfg.c)(0x5F4BD251)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -IC:/Users/inter/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-IC:/Keil_v5/ARM/CMSIS/Include-D__UVISION_VERSION="531" -DTM4C123GH6PM-o ./objects/fls_pbcfg.o -MD)
+I (Fls.h)(0x5F4FC7A4)
+I (Spi.h)(0x5F4FC7A4)
+I (Std_Types.h)(0x5F4FC7A4)
+I (Platform_Types.h)(0x5F4FC7A4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5ED66044)
+I (Compiler.h)(0x5F4BD250)
+I (Fls_Cfg.h)(0x5F4BD250)
+I (Fee_Cbk.h)(0x5F4BD24E)
+I (Memif_Types.h)(0x5F4F7006)
+I (Fls_Cbk.h)(0x5F4BD251)
+I (Fls_MemMap.h)(0x5F4BD250)
+F (.\Fls.c)(0x5F4BD251)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-3 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -IC:/Users/inter/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-IC:/Keil_v5/ARM/CMSIS/Include-D__UVISION_VERSION="531" -DTM4C123GH6PM-o ./objects/fls.o -MD)
+I (Fls.h)(0x5F4FC7A4)
+I (Spi.h)(0x5F4FC7A4)
+I (Std_Types.h)(0x5F4FC7A4)
+I (Platform_Types.h)(0x5F4FC7A4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x5ED66044)
+I (Compiler.h)(0x5F4BD250)
+I (Fls_Cfg.h)(0x5F4BD250)
+I (Fee_Cbk.h)(0x5F4BD24E)
+I (Memif_Types.h)(0x5F4F7006)
+I (Fls_MemMap.h)(0x5F4BD250)
+I (SchM_Fls.h)(0x5F4BD252)
+I (Det.h)(0x5F4BD252)
+I (Fls_Cbk.h)(0x5F4BD251)
+F (.\Fls_Cbk.h)(0x5F4BD251)()
+F (.\Det.h)(0x5F4BD252)()
+F (.\SchM_Fls.h)(0x5F4BD252)()
